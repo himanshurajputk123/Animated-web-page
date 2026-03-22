@@ -1,0 +1,39 @@
+body{
+    font-size: x-large;
+    color: white;
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBkbHN1MTM2cWl4bmY4ajdic3I3dGJ3YnFib2c5emc4bGo3dmJjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iicDrNGWxHmDrIni6j/giphy.gif");
+    background-size: cover;
+    text-align: center;
+
+    
+
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800px;
+  font-style: normal;
+
+}
+
+#isro_logo{
+    width: 100px;
+}
+ .button{
+
+    background: rgb(249, 247, 247);
+    font-size: larger;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800px;
+    font-style: normal;
+    padding: 7.5px 15px;
+    border: 0cap;
+    border-radius: 4px;
+}
+
+.underline{
+    border-bottom: 3px solid #fff;
+}
+
+.shadow{
+    text-shadow: 5px 5px 5px rgb(137, 130, 130);
+}
